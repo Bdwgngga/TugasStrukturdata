@@ -1,4 +1,4 @@
-load 'dll/node.rb'
+load 'node.rb'
 class Doublelist
 	attr_accessor :head, :tail, :size
 
